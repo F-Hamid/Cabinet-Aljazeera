@@ -1,6 +1,6 @@
 ## Dentist Website : F-Hamid
 
-A simple glasse styled page with services and contact information.
+   Beautiful glass styled website with services and contact information.
 
 Using :
 
